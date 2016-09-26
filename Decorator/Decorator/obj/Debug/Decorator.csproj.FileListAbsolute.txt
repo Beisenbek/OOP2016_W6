@@ -1,0 +1,6 @@
+c:\users\b.baisakov\documents\visual studio 2013\Projects\Decorator\Decorator\bin\Debug\Decorator.exe.config
+c:\users\b.baisakov\documents\visual studio 2013\Projects\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+c:\users\b.baisakov\documents\visual studio 2013\Projects\Decorator\Decorator\bin\Debug\Decorator.exe
+c:\users\b.baisakov\documents\visual studio 2013\Projects\Decorator\Decorator\bin\Debug\Decorator.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\Decorator\Decorator\obj\Debug\Decorator.exe
+c:\users\b.baisakov\documents\visual studio 2013\Projects\Decorator\Decorator\obj\Debug\Decorator.pdb
